@@ -33,7 +33,8 @@ A list of links to coding resources that I find helpful
 
 ## Languages
 - HTML, CSS, Ruby, Databases, ect. (The Odin Project): https://www.theodinproject.com/
-- HTML, CSS, JavaScript, Python(Harvard CS 50): https://cs50.harvard.edu/web/2020/weeks/0/ 
+- HTML, CSS, JavaScript, Python(Harvard CS 50): https://cs50.harvard.edu/web/2020/weeks/0/
+- Fullstack Development (Fullstack Open): https://fullstackopen.com/en/
 
 ### SQL
 -Free sites for learning:
