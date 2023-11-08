@@ -40,8 +40,8 @@ A list of links to coding resources that I find helpful
 -Free sites for learning:
   - https://sqlbolt.com/
   - https://mode.com/sql-tutorial/
-  - https://www.mysqltutorial.org/ 
-- Sites for practice: 
+  - https://www.mysqltutorial.org/
+  - Sites for practice: 
   - https://www.hackerrank.com/domains/sql
 
 ### CSS
@@ -109,3 +109,5 @@ https://github.com/ults-io/vscode-react-javascript-snippets/blob/HEAD/docs/Snipp
 - Harvard CS50 AI: https://pll.harvard.edu/course/cs50s-understanding-technology-0/2023-05
 - Havard CS50 Data Science: https://pll.harvard.edu/course/introduction-data-science-python/2023-10
 - Video for how to start with chat gpt: https://youtu.be/pGOyw_M1mNE?si=8l-CR1q5-1Ef8e1c
+- Free online/computer skills competency trainings (GCF Global): https://edu.gcfglobal.org/en/
+- IP lookup tool: https://www.nslookup.io/website-to-ip-lookup/
