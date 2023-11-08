@@ -111,3 +111,4 @@ https://github.com/ults-io/vscode-react-javascript-snippets/blob/HEAD/docs/Snipp
 - Video for how to start with chat gpt: https://youtu.be/pGOyw_M1mNE?si=8l-CR1q5-1Ef8e1c
 - Free online/computer skills competency trainings (GCF Global): https://edu.gcfglobal.org/en/
 - IP lookup tool: https://www.nslookup.io/website-to-ip-lookup/
+- Free unix shell course: https://swcarpentry.github.io/shell-novice/
