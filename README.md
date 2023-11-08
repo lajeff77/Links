@@ -37,7 +37,7 @@ A list of links to coding resources that I find helpful
 - Fullstack Development (Fullstack Open): https://fullstackopen.com/en/
 
 ### SQL
--Free sites for learning:
+Free sites for learning:
   - https://sqlbolt.com/
   - https://mode.com/sql-tutorial/
   - https://www.mysqltutorial.org/
