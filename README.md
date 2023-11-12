@@ -26,6 +26,7 @@ A list of links to coding resources that I find helpful
 ### Job Boards:
 - https://docs.google.com/spreadsheets/d/1lmixWJASoely2mauizJXJRePF2n-L8vhG-oqBaVHLG0/edit#gid=2108559977
 - https://hiring.cafe/
+- https://jobs.insightglobal.com/
 
 ### Resume 
 - AI resume refiner: https://resumerefiner.com/
