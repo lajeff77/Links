@@ -119,3 +119,4 @@ https://github.com/ults-io/vscode-react-javascript-snippets/blob/HEAD/docs/Snipp
 - IP lookup tool: https://www.nslookup.io/website-to-ip-lookup/
 - Free unix shell course: https://swcarpentry.github.io/shell-novice/
 - Verify github ssh key: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/testing-your-ssh-connection
+- Free cert practice exams: https://www.certlibrary.com/
