@@ -88,6 +88,10 @@ https://github.com/ults-io/vscode-react-javascript-snippets/blob/HEAD/docs/Snipp
 - Encoding cracker: https://crackstation.net/
 - To view blind ssrf: https://pipedream.com/requestbin
 
+## IT
+### CompTIA A+ Certification
+- standards: https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/comptia-a-220-1101-exam-objectives-(6-0).pdf?sfvrsn=c851d4c1_2
+
 ## UI/UX Design
 - https://www.youtube.com/watch?v=wIuVvCuiJhU&ab_channel=Juxtopposed
 - https://www.youtube.com/watch?v=3C_22eBWpjg&t=389s&ab_channel=TheWebsiteArchitect
