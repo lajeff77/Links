@@ -92,6 +92,8 @@ https://github.com/ults-io/vscode-react-javascript-snippets/blob/HEAD/docs/Snipp
 ### CompTIA A+ Certification (220-1101)
 - standards: https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/comptia-a-220-1101-exam-objectives-(6-0).pdf?sfvrsn=c851d4c1_2
 - practice questions (CompTIA): https://www.comptia.org/training/resources/practice-tests/comptia-a-1101-practice-questions
+- Mike Myers Playlist: https://www.youtube.com/playlist?list=PLS7k0eFE5gd8oV6wHZ__1Nfl0_gsKzBII
+- Professor Messer Playlist: https://www.youtube.com/playlist?list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC
 
 ## UI/UX Design
 - https://www.youtube.com/watch?v=wIuVvCuiJhU&ab_channel=Juxtopposed
