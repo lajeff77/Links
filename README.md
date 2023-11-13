@@ -89,6 +89,11 @@ https://github.com/ults-io/vscode-react-javascript-snippets/blob/HEAD/docs/Snipp
 - To view blind ssrf: https://pipedream.com/requestbin
 
 ## IT
+- Info about CPUS: https://cpux.net/sitemap
+  
+### CompTIA A+ Certifications
+- free test labs: https://testoutce.com/pages/free-comptia-aplus-labs
+
 ### CompTIA A+ Certification (220-1101)
 - standards: https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/comptia-a-220-1101-exam-objectives-(6-0).pdf?sfvrsn=c851d4c1_2
 - practice questions (CompTIA): https://www.comptia.org/training/resources/practice-tests/comptia-a-1101-practice-questions
