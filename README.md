@@ -32,6 +32,9 @@ A list of links to coding resources that I find helpful
 - AI resume refiner: https://resumerefiner.com/
 - ATS scanner: https://www.jobscan.co/
 
+### Side Projects
+-Ideas (build your own x): https://github.com/codecrafters-io/build-your-own-x
+
 ## Languages
 - HTML, CSS, Ruby, Databases, ect. (The Odin Project): https://www.theodinproject.com/
 - HTML, CSS, JavaScript, Python(Harvard CS 50): https://cs50.harvard.edu/web/2020/weeks/0/
