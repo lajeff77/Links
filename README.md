@@ -1,6 +1,49 @@
 # Links
 A list of links to coding resources that I find helpful
 
+## Cybersecurity
+- Hacker101: https://www.hacker101.com/playlists/newcomers 
+- How to use Burp Suite: https://portswigger.net/burp/documentation/desktop/getting-started/intercepting-http-traffic?utm_source=burp_suite_community&utm_medium=learn_tab&utm_campaign=onboarding 
+- Web Security Academy: https://portswigger.net/web-security/getting-started
+- Splunk Training: https://www.splunk.com/en_us/training.html
+- Sans free resources: https://www.sans.org/cyberaces/
+- Qualys training: https://www.qualys.com/training/
+- Try Hack Me: https://tryhackme.com/
+- Beginners Resources: https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/basics.md
+- Public bug bounties: https://www.guru99.com/bug-bounty-programs.html
+- Free cyber training: https://www.isc2.org/landing/1mcc
+   Info about CPUS: https://cpux.net/sitemap
+- Cisco Packet Tracer lab: https://skillsforall.com/learningcollections/cisco-packet-tracer
+- Common commands for ctf: https://infosecwriteups.com/use-these-cheatsheets-to-increase-your-ctf-speed-ca12a01d396a
+
+### Cyber Tools
+- OWASP Favicon lookup: https://wiki.owasp.org/index.php/OWASP_favicon_database
+- Browser tool for analyzing websites: https://www.wappalyzer.com/ 
+- Wayback machine to lookup website archives: https://archive.org/web/ 
+- Searchable certificate databases:
+    - https://crt.sh 
+    - https://ui.ctsearch.entrust.com/ui/ctsearchui 
+- Encoding cracker: https://crackstation.net/
+- To view blind ssrf: https://pipedream.com/requestbin
+
+### IT Support Tools
+- HWMonitotr for checking system tempurature: https://www.cpuid.com/softwares/hwmonitor.html
+
+### Certifiactions
+- Free practice exams CompTIA: https://www.examcompass.com/
+- free test labs:
+    - https://testoutce.com/pages/free-comptia-aplus-labs
+    - https://www.gocertify.com/all-practice-labs
+
+### CompTIA A+ Certifications
+  - Podcast: https://open.spotify.com/show/0vMpLhS3rCoSFbKlK5Mzuq?si=SpF_H_xTRcS5EzwlDgaHHw
+
+### CompTIA A+ Certification (220-1101)
+- standards: https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/comptia-a-220-1101-exam-objectives-(6-0).pdf?sfvrsn=c851d4c1_2
+- practice questions (CompTIA): https://www.comptia.org/training/resources/practice-tests/comptia-a-1101-practice-questions
+- Mike Myers Playlist: https://www.youtube.com/playlist?list=PLS7k0eFE5gd8oV6wHZ__1Nfl0_gsKzBII
+- Professor Messer Playlist: https://www.youtube.com/playlist?list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC
+
 ## Interview Prep
 - Overall guide on software engineering interviews (Tech Interview Handbook): https://www.techinterviewhandbook.org/
 
@@ -13,7 +56,6 @@ A list of links to coding resources that I find helpful
 - Algorithms 1 in Java: https://imp.i384100.net/algorithms-1
 - Algorithms 2 in Java: https://imp.i384100.net/algorithms-2
 - Top Algorithms from GeeksforGeeks: https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
-
 
 ### System Design
 - System design guide: https://github.com/karanpratapsingh/system-design
@@ -68,44 +110,6 @@ Free sites for learning:
 - React interview question short: https://youtube.com/shorts/L0DWAVbdEaM?feature=share
 - React extension for VScode: ES7+ React/Redux/React-Native snippets
 https://github.com/ults-io/vscode-react-javascript-snippets/blob/HEAD/docs/Snippets.md 
-
-## Cybersecurity
-- Hacker101: https://www.hacker101.com/playlists/newcomers 
-- How to use Burp Suite: https://portswigger.net/burp/documentation/desktop/getting-started/intercepting-http-traffic?utm_source=burp_suite_community&utm_medium=learn_tab&utm_campaign=onboarding 
-- Web Security Academy: https://portswigger.net/web-security/getting-started
-- Splunk Training: https://www.splunk.com/en_us/training.html
-- Sans free resources: https://www.sans.org/cyberaces/
-- Qualys training: https://www.qualys.com/training/
-- Try Hack Me: https://tryhackme.com/
-- Beginners Resources: https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/basics.md
-- Public bug bounties: https://www.guru99.com/bug-bounty-programs.html
-- Free cyber training: https://www.isc2.org/landing/1mcc
-   Info about CPUS: https://cpux.net/sitemap
-- Cisco Packet Tracer lab: https://skillsforall.com/learningcollections/cisco-packet-tracer
-- Common commands for ctf: https://infosecwriteups.com/use-these-cheatsheets-to-increase-your-ctf-speed-ca12a01d396a 
-
-### Tools
-- OWASP Favicon lookup: https://wiki.owasp.org/index.php/OWASP_favicon_database
-- Browser tool for analyzing websites: https://www.wappalyzer.com/ 
-- Wayback machine to lookup website archives: https://archive.org/web/ 
-- Searchable certificate databases:
-    - https://crt.sh 
-    - https://ui.ctsearch.entrust.com/ui/ctsearchui 
-- Encoding cracker: https://crackstation.net/
-- To view blind ssrf: https://pipedream.com/requestbin
-  
-### CompTIA A+ Certifications
-- free test labs:
-    - https://testoutce.com/pages/free-comptia-aplus-labs
-    - https://www.gocertify.com/all-practice-labs
-    - Podcast: https://open.spotify.com/show/0vMpLhS3rCoSFbKlK5Mzuq?si=SpF_H_xTRcS5EzwlDgaHHw
-    - 
-
-### CompTIA A+ Certification (220-1101)
-- standards: https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/comptia-a-220-1101-exam-objectives-(6-0).pdf?sfvrsn=c851d4c1_2
-- practice questions (CompTIA): https://www.comptia.org/training/resources/practice-tests/comptia-a-1101-practice-questions
-- Mike Myers Playlist: https://www.youtube.com/playlist?list=PLS7k0eFE5gd8oV6wHZ__1Nfl0_gsKzBII
-- Professor Messer Playlist: https://www.youtube.com/playlist?list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC
 
 ## UI/UX Design
 - https://www.youtube.com/watch?v=wIuVvCuiJhU&ab_channel=Juxtopposed
