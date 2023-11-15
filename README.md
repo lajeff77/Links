@@ -82,6 +82,7 @@ https://github.com/ults-io/vscode-react-javascript-snippets/blob/HEAD/docs/Snipp
 - Free cyber training: https://www.isc2.org/landing/1mcc
    Info about CPUS: https://cpux.net/sitemap
 - Cisco Packet Tracer lab: https://skillsforall.com/learningcollections/cisco-packet-tracer
+- Common commands for ctf: https://infosecwriteups.com/use-these-cheatsheets-to-increase-your-ctf-speed-ca12a01d396a 
 
 ### Tools
 - OWASP Favicon lookup: https://wiki.owasp.org/index.php/OWASP_favicon_database
