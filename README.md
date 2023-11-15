@@ -93,6 +93,7 @@ https://github.com/ults-io/vscode-react-javascript-snippets/blob/HEAD/docs/Snipp
 
 ## IT
 - Info about CPUS: https://cpux.net/sitemap
+- Cisco Packet Tracer: https://skillsforall.com/learningcollections/cisco-packet-tracer
   
 ### CompTIA A+ Certifications
 - free test labs:
