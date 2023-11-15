@@ -33,7 +33,7 @@ A list of links to coding resources that I find helpful
 - ATS scanner: https://www.jobscan.co/
 
 ### Side Projects
--Ideas (build your own x): https://github.com/codecrafters-io/build-your-own-x
+- Ideas (build your own x): https://github.com/codecrafters-io/build-your-own-x
 
 ## Languages
 - HTML, CSS, Ruby, Databases, ect. (The Odin Project): https://www.theodinproject.com/
@@ -99,6 +99,8 @@ https://github.com/ults-io/vscode-react-javascript-snippets/blob/HEAD/docs/Snipp
 - free test labs:
     - https://testoutce.com/pages/free-comptia-aplus-labs
     - https://www.gocertify.com/all-practice-labs
+    - Podcast: https://open.spotify.com/show/0vMpLhS3rCoSFbKlK5Mzuq?si=SpF_H_xTRcS5EzwlDgaHHw
+    - 
 
 ### CompTIA A+ Certification (220-1101)
 - standards: https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/comptia-a-220-1101-exam-objectives-(6-0).pdf?sfvrsn=c851d4c1_2
