@@ -79,7 +79,9 @@ https://github.com/ults-io/vscode-react-javascript-snippets/blob/HEAD/docs/Snipp
 - Try Hack Me: https://tryhackme.com/
 - Beginners Resources: https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/basics.md
 - Public bug bounties: https://www.guru99.com/bug-bounty-programs.html
-
+- Free cyber training: https://www.isc2.org/landing/1mcc
+   Info about CPUS: https://cpux.net/sitemap
+- Cisco Packet Tracer lab: https://skillsforall.com/learningcollections/cisco-packet-tracer
 
 ### Tools
 - OWASP Favicon lookup: https://wiki.owasp.org/index.php/OWASP_favicon_database
@@ -90,10 +92,6 @@ https://github.com/ults-io/vscode-react-javascript-snippets/blob/HEAD/docs/Snipp
     - https://ui.ctsearch.entrust.com/ui/ctsearchui 
 - Encoding cracker: https://crackstation.net/
 - To view blind ssrf: https://pipedream.com/requestbin
-
-## IT
-- Info about CPUS: https://cpux.net/sitemap
-- Cisco Packet Tracer: https://skillsforall.com/learningcollections/cisco-packet-tracer
   
 ### CompTIA A+ Certifications
 - free test labs:
