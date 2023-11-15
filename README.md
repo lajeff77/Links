@@ -15,6 +15,7 @@ A list of links to coding resources that I find helpful
    Info about CPUS: https://cpux.net/sitemap
 - Cisco Packet Tracer lab: https://skillsforall.com/learningcollections/cisco-packet-tracer
 - Common commands for ctf: https://infosecwriteups.com/use-these-cheatsheets-to-increase-your-ctf-speed-ca12a01d396a
+- Other names for IT help desk jobs: https://www.comptia.org/blog/best-it-support-and-help-desk-jobs
 
 ### Cyber Tools
 - OWASP Favicon lookup: https://wiki.owasp.org/index.php/OWASP_favicon_database
@@ -43,6 +44,7 @@ A list of links to coding resources that I find helpful
 - practice questions (CompTIA): https://www.comptia.org/training/resources/practice-tests/comptia-a-1101-practice-questions
 - Mike Myers Playlist: https://www.youtube.com/playlist?list=PLS7k0eFE5gd8oV6wHZ__1Nfl0_gsKzBII
 - Professor Messer Playlist: https://www.youtube.com/playlist?list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC
+
 
 ## Interview Prep
 - Overall guide on software engineering interviews (Tech Interview Handbook): https://www.techinterviewhandbook.org/
