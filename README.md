@@ -143,3 +143,5 @@ https://github.com/ults-io/vscode-react-javascript-snippets/blob/HEAD/docs/Snipp
 - Free unix shell course: https://swcarpentry.github.io/shell-novice/
 - Verify github ssh key: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/testing-your-ssh-connection
 - Free cert practice exams: https://www.certlibrary.com/
+- Firefox extension tutorial: https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/What_are_WebExtensions
+
