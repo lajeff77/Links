@@ -129,6 +129,9 @@ https://github.com/ults-io/vscode-react-javascript-snippets/blob/HEAD/docs/Snipp
 - Another LED tutorial: https://www.youtube.com/watch?v=rPvGLSuMaLA 
 - Source code for LED tutorial: https://github.com/hendog993/Youtube_arduino/blob/master/LEDStrip.ino
 
+## AI
+- Free prompt engineering course by Open AI: https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction
+
 ## Other
 - Virtual internships: https://www.theforage.com/virtual-internships/security
 - Guide to open source contribution: https://github.com/freeCodeCamp/how-to-contribute-to-open-source
