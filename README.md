@@ -16,6 +16,7 @@ A list of links to coding resources that I find helpful
 - Cisco Packet Tracer lab: https://skillsforall.com/learningcollections/cisco-packet-tracer
 - Common commands for ctf: https://infosecwriteups.com/use-these-cheatsheets-to-increase-your-ctf-speed-ca12a01d396a
 - Other names for IT help desk jobs: https://www.comptia.org/blog/best-it-support-and-help-desk-jobs
+- How to find malware on a windows machine: https://hahndorf.eu/tech/malware.html
 
 ### Cyber Tools
 - OWASP Favicon lookup: https://wiki.owasp.org/index.php/OWASP_favicon_database
