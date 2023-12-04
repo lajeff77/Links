@@ -95,6 +95,7 @@ Free sites for learning:
 
 ### CSS
 - flexbox practice game (Flexbox Froggy): https://flexboxfroggy.com/
+- flexbox guide: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 ### JavaScript
 - https://learnjavascript.online
