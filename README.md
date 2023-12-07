@@ -66,6 +66,7 @@ A list of links to coding resources that I find helpful
 - Free Code Camp Intro to System Design video: https://www.youtube.com/watch?v=m8Icp_Cid5o&ab_channel=freeCodeCamp.org
 - Video about framework to answer system design questions: https://youtu.be/i7twT3x5yv8?si=aw_aoMJu7hFKnM38
 - Free mock AI interviews: https://www.hellointerview.com/mock/ai
+- System design guide: https://www.hellointerview.com/learn/system-design/intro
 
 ### Behavioral Questions
 
