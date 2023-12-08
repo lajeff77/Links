@@ -67,8 +67,10 @@ A list of links to coding resources that I find helpful
 - Video about framework to answer system design questions: https://youtu.be/i7twT3x5yv8?si=aw_aoMJu7hFKnM38
 - Free mock AI interviews: https://www.hellointerview.com/mock/ai
 - System design guide: https://www.hellointerview.com/learn/system-design/intro
+- OSI Model: https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/
 
 ### Behavioral Questions
+- 30 Common SWE Behavioral Questions: https://www.techinterviewhandbook.org/behavioral-interview-questions/
 
 ### Job Boards:
 - https://docs.google.com/spreadsheets/d/1lmixWJASoely2mauizJXJRePF2n-L8vhG-oqBaVHLG0/edit#gid=2108559977
