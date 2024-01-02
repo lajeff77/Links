@@ -153,4 +153,5 @@ https://github.com/ults-io/vscode-react-javascript-snippets/blob/HEAD/docs/Snipp
 - Free cert practice exams: https://www.certlibrary.com/
 - Firefox extension tutorial: https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/What_are_WebExtensions
 - Tables in Markdown: https://www.markdownguide.org/extended-syntax/
+- Front end roadmap: https://roadmap.sh/frontend
 
