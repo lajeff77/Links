@@ -119,7 +119,11 @@ Free sites for learning:
 - React practice questions: https://www.greatfrontend.com/questions/react?utm_source=google&utm_campaign=19868954151&utm_medium=ad&utm_content=652218058705&utm_term=react%20coding%20interview&gclid=CjwKCAjw44mlBhAQEiwAqP3eVqm5c2RtV-XHabPcFzHXpukORyNycqayQO9OGHdHHBJl0azo57-8mBoCJcQQAvD_BwE 
 - React interview question short: https://youtube.com/shorts/L0DWAVbdEaM?feature=share
 - React extension for VScode: ES7+ React/Redux/React-Native snippets
-https://github.com/ults-io/vscode-react-javascript-snippets/blob/HEAD/docs/Snippets.md 
+https://github.com/ults-io/vscode-react-javascript-snippets/blob/HEAD/docs/Snippets.md
+
+### Spring Boot
+- Free courses: https://medium.com/quick-code/5-free-spring-boot-courses-for-java-programmers-369981c93c4a
+- Spring initializer: http://start.springboot.io/
 
 ## UI/UX Design
 - https://www.youtube.com/watch?v=wIuVvCuiJhU&ab_channel=Juxtopposed
