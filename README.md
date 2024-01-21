@@ -4,6 +4,7 @@ A list of links to coding resources that I find helpful
 ## Interview Prep
 - Overall guide on software engineering interviews (Tech Interview Handbook): https://www.techinterviewhandbook.org/
 - Meta SWE Interview Breakdown: https://faangpath.com/blog/meta-software-engineer-interview/
+- Java Concept Questions: https://youtu.be/auCdqGdn2as?si=3BT0cp8tjC48WiXG
 
 ### Coding Questions
 - 75 curated leetcode questions (Blind 75): https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
