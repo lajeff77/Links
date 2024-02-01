@@ -79,6 +79,8 @@ https://github.com/ults-io/vscode-react-javascript-snippets/blob/HEAD/docs/Snipp
 ### Spring Boot
 - Free courses: https://medium.com/quick-code/5-free-spring-boot-courses-for-java-programmers-369981c93c4a
 - Spring initializer: http://start.springboot.io/
+- Spring reference: https://docs.spring.io/spring-ws/docs/current/reference/html/#overview
+- How to build a spring web app: https://spring.io/guides/gs/spring-boot/
 
 ## Cybersecurity
 - Hacker101: https://www.hacker101.com/playlists/newcomers 
