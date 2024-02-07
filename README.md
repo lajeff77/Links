@@ -81,6 +81,7 @@ https://github.com/ults-io/vscode-react-javascript-snippets/blob/HEAD/docs/Snipp
 - Spring initializer: http://start.springboot.io/
 - Spring reference: https://docs.spring.io/spring-ws/docs/current/reference/html/#overview
 - How to build a spring web app: https://spring.io/guides/gs/spring-boot/
+- Basic spring rest example repo with explainations: https://github.com/spring-guides/tut-rest/tree/main?tab=readme-ov-file
 
 ## Cybersecurity
 - Hacker101: https://www.hacker101.com/playlists/newcomers 
