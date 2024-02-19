@@ -99,6 +99,7 @@ https://github.com/ults-io/vscode-react-javascript-snippets/blob/HEAD/docs/Snipp
 - Common commands for ctf: https://infosecwriteups.com/use-these-cheatsheets-to-increase-your-ctf-speed-ca12a01d396a
 - Other names for IT help desk jobs: https://www.comptia.org/blog/best-it-support-and-help-desk-jobs
 - How to find malware on a windows machine: https://hahndorf.eu/tech/malware.html
+- Vim game: https://vim-adventures.com/
 
 ### Cyber Tools
 - OWASP Favicon lookup: https://wiki.owasp.org/index.php/OWASP_favicon_database
