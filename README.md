@@ -36,6 +36,7 @@ A list of links to coding resources that I find helpful
 ### Resume 
 - AI resume refiner: https://resumerefiner.com/
 - ATS scanner: https://www.jobscan.co/
+- ATS optimization: https://www.leet.co/
 
 ### Side Projects
 - Ideas (build your own x): https://github.com/codecrafters-io/build-your-own-x
