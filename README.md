@@ -137,7 +137,8 @@ https://github.com/ults-io/vscode-react-javascript-snippets/blob/HEAD/docs/Snipp
 
 ## Game Programming
 - unity fruit ninja clone: https://www.youtube.com/watch?v=H57XHbKhXwA&t=3659s&ab_channel=Zenva
-- pygame: https://realpython.com/pygame-a-primer/#sprite-groups
+- pygame basics: https://realpython.com/pygame-a-primer/#sprite-groups
+- pygame docs: https://www.pygame.org/docs/index.html
 
 ## Hardware Engineering
 - LED Tutorial: https://www.youtube.com/watch?v=5M24QUVE0iU
