@@ -165,4 +165,5 @@ https://github.com/ults-io/vscode-react-javascript-snippets/blob/HEAD/docs/Snipp
 - Tables in Markdown: https://www.markdownguide.org/extended-syntax/
 - Front end roadmap: https://roadmap.sh/frontend
 - All roadmaps: https://roadmap.sh/
+- AWS certification paths: https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf
 
