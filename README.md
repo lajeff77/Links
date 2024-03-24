@@ -77,6 +77,7 @@ Free sites for learning:
 - React extension for VScode: ES7+ React/Redux/React-Native snippets
 https://github.com/ults-io/vscode-react-javascript-snippets/blob/HEAD/docs/Snippets.md
 - Effective testing for React componenets: https://kentcdodds.com/blog/effective-snapshot-testing
+- Material UI Icons search tool: https://mui.com/material-ui/material-icons/
 
 ### Spring Boot
 - Free courses: https://medium.com/quick-code/5-free-spring-boot-courses-for-java-programmers-369981c93c4a
