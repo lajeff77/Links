@@ -144,11 +144,11 @@ https://github.com/ults-io/vscode-react-javascript-snippets/blob/HEAD/docs/Snipp
 - pygame docs: https://www.pygame.org/docs/index.html
 
 ## Hardware Engineering
-- LED Tutorial: https://www.youtube.com/watch?v=5M24QUVE0iU
-- Blinking LED tutorial: https://www.instructables.com/LED-BLINKING-USING-ARDUINO-NANO/
+- LED Strip Tutorial: https://www.youtube.com/watch?v=5M24QUVE0iU
+- Blinking single LED tutorial: https://www.instructables.com/LED-BLINKING-USING-ARDUINO-NANO/
 - Fast LED docs: https://github.com/FastLED/FastLED/wiki/Overview
-- Another LED tutorial: https://www.youtube.com/watch?v=rPvGLSuMaLA 
-- Source code for LED tutorial: https://github.com/hendog993/Youtube_arduino/blob/master/LEDStrip.ino
+- Another LED tutorial: https://www.youtube.com/watch?v=rPvGLSuMaLA
+- Source code for LED Strip tutorial: https://github.com/hendog993/Youtube_arduino/blob/master/LEDStrip.ino
 
 ## AI
 - Free prompt engineering course by Open AI: https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction
