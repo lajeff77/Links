@@ -78,6 +78,7 @@ Free sites for learning:
 https://github.com/ults-io/vscode-react-javascript-snippets/blob/HEAD/docs/Snippets.md
 - Effective testing for React componenets: https://kentcdodds.com/blog/effective-snapshot-testing
 - Material UI Icons search tool: https://mui.com/material-ui/material-icons/
+- React testing lib cheat sheet: https://testing-library.com/docs/react-testing-library/cheatsheet
 
 ### Spring Boot
 - Free courses: https://medium.com/quick-code/5-free-spring-boot-courses-for-java-programmers-369981c93c4a
