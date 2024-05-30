@@ -87,6 +87,7 @@ https://github.com/ults-io/vscode-react-javascript-snippets/blob/HEAD/docs/Snipp
 - How to build a spring web app: https://spring.io/guides/gs/spring-boot/
 - Basic spring rest example repo with explainations: https://github.com/spring-guides/tut-rest/tree/main?tab=readme-ov-file
 - Spring Security Playlist: https://youtube.com/playlist?list=PLqq-6Pq4lTTYTEooakHchTGglSvkZAjnE&si=KCtjfXcOgwy5BGv0
+- Really good hands on spring course: https://spring.academy/courses/building-a-rest-api-with-spring-boot
 
 ## Cybersecurity
 - Hacker101: https://www.hacker101.com/playlists/newcomers 
