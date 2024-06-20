@@ -171,4 +171,5 @@ https://github.com/ults-io/vscode-react-javascript-snippets/blob/HEAD/docs/Snipp
 - Front end roadmap: https://roadmap.sh/frontend
 - All roadmaps: https://roadmap.sh/
 - AWS certification paths: https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf
+- AWS developer associate certification path: https://aws.amazon.com/certification/certified-developer-associate/
 
