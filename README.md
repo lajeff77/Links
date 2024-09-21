@@ -140,6 +140,8 @@ https://github.com/ults-io/vscode-react-javascript-snippets/blob/HEAD/docs/Snipp
 - https://www.youtube.com/watch?v=wIuVvCuiJhU&ab_channel=Juxtopposed
 - https://www.youtube.com/watch?v=3C_22eBWpjg&t=389s&ab_channel=TheWebsiteArchitect
 - Figma tutorial (Free Code Camp): https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=7716s&ab_channel=freeCodeCamp.org
+- Degreeless Design, a website with a bunch of resources for learning design: https://www.degreeless.design/
+  
 
 ## Game Programming
 - unity fruit ninja clone: https://www.youtube.com/watch?v=H57XHbKhXwA&t=3659s&ab_channel=Zenva
