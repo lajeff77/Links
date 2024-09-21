@@ -142,6 +142,7 @@ https://github.com/ults-io/vscode-react-javascript-snippets/blob/HEAD/docs/Snipp
 - Figma tutorial (Free Code Camp): https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=7716s&ab_channel=freeCodeCamp.org
 - Degreeless Design, a website with a bunch of resources for learning design: https://www.degreeless.design/
 - Free resources for graphic design: https://blog.shillingtoneducation.com/essential-free-resources-graphic-designers/
+- List of free graphic design courses: https://www.linkedin.com/pulse/here-eight-free-graphic-design-courses-you-can-explore-wvblf/
   
 
 ## Game Programming
