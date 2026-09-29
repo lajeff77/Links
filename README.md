@@ -36,6 +36,7 @@ A list of links to coding resources that I find helpful
 ### Resume 
 - AI resume refiner: https://resumerefiner.com/
 - ATS scanner: https://www.jobscan.co/
+- Free ATS checker (ResumeAI): https://withresumeai.com/ (3/day anonymous, 10/day free account; State of ATS 2026 — 738 employers, 704 portal-verified; Workday 37.9%)
 - ATS optimization: https://www.leet.co/
 
 ### Side Projects
